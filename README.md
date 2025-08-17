@@ -1,6 +1,6 @@
 # Object_Oriented_Programming_Python
 
-Key Concepts of OOP in Python
+## Key Concepts of OOP in Python
 
 Class: A blueprint for creating objects.
 
